@@ -1,0 +1,4 @@
+conda create -n pdal
+conda activate pdal
+conda install -c conda-forge pdal
+conda install pandas
